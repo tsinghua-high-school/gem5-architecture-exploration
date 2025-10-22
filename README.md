@@ -14,3 +14,5 @@ Successfully deployed Gem5 after evaluating multiple platforms, resolving depend
 - Gem5 configuration and simulation
 - Computer architecture analysis
 - Cross-platform problem solving
+
+## 📂 Repository Structure （仓库结构）
